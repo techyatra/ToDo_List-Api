@@ -65,3 +65,4 @@ D:\Github\ToDo_List\ToDo_List\bin\Debug\net6.0\ToDo_List.Services.dll
 D:\Github\ToDo_List\ToDo_List\bin\Debug\net6.0\ToDo_List.Services.pdb
 D:\Github\ToDo_List\ToDo_List\bin\Debug\net6.0\Humanizer.dll
 D:\Github\ToDo_List\ToDo_List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Github\ToDo_List\ToDo_List\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
